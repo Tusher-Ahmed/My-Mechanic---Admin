@@ -13,7 +13,6 @@ You will also see any lint errors in the console.
 "My Mechanic" The title of this project.My name is Tusher Ahmed and this project is developed by me. Ok, The main motivation for making this project to make customer and mechanic life easier.
 This is the Admin panel where all the actions that admin can do is developed for this project.
 
-### tushercse5@gmail.com -> 123456
-
+### admin login information: tushercse5@gmail.com -> 123456
 ### Frontend repository link - https://github.com/Tusher-Ahmed/My-Mechanic-Client
 ### backend repository link - https://github.com/Tusher-Ahmed/My-Mechanic---backend
