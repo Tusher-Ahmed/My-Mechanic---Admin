@@ -15,4 +15,4 @@ This is the Admin panel where all the actions that admin can do is developed for
 
 ### tushercse5@gmail.com -> 123456
 
-### Client Site repository link - https://github.com/Tusher-Ahmed/My-Mechanic-Client
+### Frontend repository link - https://github.com/Tusher-Ahmed/My-Mechanic-Client
